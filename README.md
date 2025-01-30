@@ -63,13 +63,8 @@ end
 - **SSIM (Structural Similarity Index Measure)**: Evaluates structural similarity between images
 ```
 
-## License
-```markdown
-This project is released under the MIT License.
-```
-
 ## Acknowledgments
 ```markdown
-Developed as part of a Digital Image Processing study to explore lossy image compression techniques.
+Developed as part of a Digital Image Processing study to explore lossy image compression techniques by Bhavay and Adarsh.
 ```
 
