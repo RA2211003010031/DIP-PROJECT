@@ -2,7 +2,7 @@
 
 ## Overview
 ```markdown
-PixelRedux is a MATLAB-based digital image processing project that implements an 8x8 Discrete Cosine Transform (DCT) for image compression and decompression. The project evaluates the quality of compression using PSNR (Peak Signal-to-Noise Ratio) and SSIM (Structural Similarity Index Measure).
+PixelRedux is MATLAB-based digital image processing project that implements an 8x8 Discrete Cosine Transform (DCT) for image compression and decompression. The project evaluates the quality of compression using PSNR (Peak Signal-to-Noise Ratio) and SSIM (Structural Similarity Index Measure).
 ```
 
 ## Features
